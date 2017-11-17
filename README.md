@@ -1,3 +1,4 @@
 # hellow_world
 my first git
-This is the edited branch
+Instead we will use this line of code
+and this one too.
